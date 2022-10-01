@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Analise e Desenvolvimento de Sistemas** no <a href="https://www.unip.br/">UNIP Campinas</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Jr** em <a href="http://necbrasil.com.br/">NEC Brasil</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** em <a href="http://necbrasil.com.br/">NEC Brasil</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
