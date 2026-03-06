@@ -1,16 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Délcio Derigo Júnior
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Software+Developer;FullStack+Developer;Node.js+Specialist;API+and+Integration+Engineer;Always+learning+new+technologies"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Délcio%20Derigo%20Júnior&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Software+Developer;FullStack+Engineer;Node.js+%2B+TypeScript+Specialist;API+Integration+Engineer;Legacy+Systems+Modernization"/>
 
 </div>
 
@@ -18,11 +14,22 @@
 
 # 👨‍💻 Sobre mim
 
-💻 Desenvolvedor com **+5 anos de experiência**  
-🏢 Atualmente na **NEC Brasil**  
-🚀 Especialista em **Node.js + TypeScript**  
-🔗 Experiência forte em **APIs REST e integrações**  
-🛠 Modernização de **sistemas legados**
+💻 Desenvolvedor com **+5 anos de experiência**
+
+🏢 **NEC Brasil — Software House**
+
+🚀 Especialista em
+
+- Node.js
+- TypeScript
+- APIs REST
+- Integrações de sistemas
+
+🛠 Experiência com
+
+- Sistemas corporativos
+- Modernização de sistemas legados
+- Sistemas distribuídos
 
 🎓 **Análise e Desenvolvimento de Sistemas — UNIP Campinas**
 
@@ -32,36 +39,28 @@
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
-![Express](https://img.shields.io/badge/-Express-181717?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
-![CSharp](https://img.shields.io/badge/-CSharp-181717?style=for-the-badge&logo=csharp)
-![DotNet](https://img.shields.io/badge/-.NET-181717?style=for-the-badge&logo=dotnet)
+![NodeJS](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript)
+![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php)
+![CSharp](https://img.shields.io/badge/CSharp-181717?style=for-the-badge&logo=csharp)
+![DotNet](https://img.shields.io/badge/.NET-181717?style=for-the-badge&logo=dotnet)
 
 ---
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-181717?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-181717?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
 
 ---
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=for-the-badge&logo=postgresql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-181717?style=for-the-badge&logo=microsoftsqlserver)
-
----
-
-# ⚙️ DevOps
-
-![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql)
+![SQLServer](https://img.shields.io/badge/SQLServer-181717?style=for-the-badge&logo=microsoftsqlserver)
 
 ---
 
@@ -72,6 +71,26 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delciojr&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delciojr&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Delciojr&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Delciojr&theme=tokyonight"/>
 
 </p>
 
@@ -113,10 +132,8 @@
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
 
 </div>
