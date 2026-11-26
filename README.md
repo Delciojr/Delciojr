@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/EXPERIENCE-6%2B_YEARS-111111?style=flat-square&labelColor=8B1717"/>
 <img src="https://img.shields.io/badge/PROJECTS-80%2B-111111?style=flat-square&labelColor=8B1717"/>
-<img src="https://img.shields.io/badge/BASE-NEC_BRASIL-111111?style=flat-square&labelColor=8B1717"/>
 <img src="https://img.shields.io/badge/INDEPENDENT_BRAND-DELCIO_TECH-111111?style=flat-square&labelColor=8B1717"/>
 
 </div>
@@ -19,7 +18,7 @@
 
 Desenvolvedor com mais de 6 anos de experiência na construção de soluções digitais, sistemas corporativos e integrações entre plataformas.
 
-Atualmente atuo na **NEC Brasil** e também desenvolvo projetos independentes através da **Delcio Tech**, criando soluções tecnológicas para empresas e empreendedores.
+Desenvolvo projetos independentes através da **Delcio Tech**, criando soluções tecnológicas para empresas e empreendedores.
 
 Meu foco é transformar processos complexos em sistemas eficientes, conectados e escaláveis.
 
